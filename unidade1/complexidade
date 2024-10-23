@@ -1,1 +1,19 @@
-a
+Exercicio 1
+1 - T(n)=Θ(n^4)
+2 - T(n)=Θ(n^2)
+3 - T(n)=Θ(nlogn)
+4 - T(n)=Θ(n^2logn)
+5 - T(n)=Θ(n^2logn)
+6 - T(n)=Θ(n^3)
+
+
+
+Exercicio 2
+1 - T(n)=Θ(logn)
+2 - T(n)=Θ(nlogn)
+
+
+Exercicio 3
+1 - T(n)=Θ(nlogn)
+2 - T(n)=Θ(nlogn)
+
